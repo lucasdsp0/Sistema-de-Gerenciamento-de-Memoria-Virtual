@@ -4,6 +4,13 @@
 Este projeto consiste na implementação de um simulador de sistema de gerenciamento de **Memória Virtual** utilizando **Paginação por Demanda**. 
 O software simula o comportamento da memória RAM e do Disco (Swap), comparando o desempenho de diferentes algoritmos de substituição de páginas.
 
+
+## ✒️ Autores
+
+- Lucas de Souza Pereira - Desenvolvimento e Documentação
+- Arthur Bernardo Pazzutti da Silva - Desenvolvimento e Apresentação
+- Caua Homero Goncalves Rodrigues - Desenvolvimento e Apresentação
+
 Desenvolvido como Trabalho Prático para a disciplina de **Sistemas Operacionais**.
 
 ## 🚀 Funcionalidades
@@ -103,9 +110,3 @@ Para fins de avaliação, as seguintes estruturas de dados e padrões foram util
 5.  **Memória Física**: Representada por um `Set` (HashSet) para garantir buscas de página (Hits) em tempo constante O(1).
 
 -----
-
-## ✒️ Autores
-
-- Lucas de Souza Pereira - Desenvolvimento e Documentação
-- Arthur Bernardo Pazzutti da Silva - Desenvolvimento e Apresentação
-- Caua Homero Goncalves Rodrigues - Desenvolvimento e Apresentação
